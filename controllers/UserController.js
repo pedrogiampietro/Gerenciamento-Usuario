@@ -265,6 +265,7 @@ class UserController {
 
                 tr.remove();
 
+                this.updateCount();
 
             }
 
